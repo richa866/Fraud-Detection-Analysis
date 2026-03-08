@@ -69,6 +69,18 @@ Of all 28 anonymised features, V17 has the highest correlation
 with fraud at 0.33. Transaction amount does not appear in the top 15.
 
 ---
+## Visual Highlights
+
+**Top 15 Features Correlated with Fraud**
+*V17 emerges as the strongest signal  Amount doesn't even make the top 15*
+![Feature Correlation](charts/featureFraud.png)
+
+**Rule-Based Flag System Performance**
+*Score 2 achieves 40% precision — 237x better than the 0.17% baseline*
+![Flag System Performance](charts/flagscore.png)
+
+---
+
 
 ## Flag System
 
