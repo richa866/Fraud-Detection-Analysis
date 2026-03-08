@@ -1,0 +1,3 @@
+day_num,num_of_transactions,frauds,prevDay,fraud_change
+0,144786,281,NULL,NULL
+1,140021,211,281,-70
